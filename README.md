@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyam R. Yadav</h1>
 <h3 align="center">Dedicated individual whose heart beats to the rhythm of technology. With an insatiable passion for all things IT,I made it a mission to explore the ever-evolving world of information technology.</h3>
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/44HxizSn1ssAP9E86">
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/B9Kd3qi3syuJhSBo7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imperialx289&label=Profile%20views&color=0e75b6&style=flat" alt="imperialx289" /> </p>
 
